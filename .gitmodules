@@ -1,0 +1,9 @@
+[submodule "ap-gateway"]
+	path = ap-gateway
+	url = https://github.com/peymanslayer/ap-gateway.git
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/peymanslayer/auth-service.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/peymanslayer/user-service.git
